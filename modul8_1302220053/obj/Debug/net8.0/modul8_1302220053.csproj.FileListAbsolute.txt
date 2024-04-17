@@ -1,0 +1,14 @@
+D:\C#\modul8_1302220053\modul8_1302220053\bin\Debug\net8.0\modul8_1302220053.exe
+D:\C#\modul8_1302220053\modul8_1302220053\bin\Debug\net8.0\modul8_1302220053.deps.json
+D:\C#\modul8_1302220053\modul8_1302220053\bin\Debug\net8.0\modul8_1302220053.runtimeconfig.json
+D:\C#\modul8_1302220053\modul8_1302220053\bin\Debug\net8.0\modul8_1302220053.dll
+D:\C#\modul8_1302220053\modul8_1302220053\bin\Debug\net8.0\modul8_1302220053.pdb
+D:\C#\modul8_1302220053\modul8_1302220053\obj\Debug\net8.0\modul8_1302220053.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\modul8_1302220053\modul8_1302220053\obj\Debug\net8.0\modul8_1302220053.AssemblyInfoInputs.cache
+D:\C#\modul8_1302220053\modul8_1302220053\obj\Debug\net8.0\modul8_1302220053.AssemblyInfo.cs
+D:\C#\modul8_1302220053\modul8_1302220053\obj\Debug\net8.0\modul8_1302220053.csproj.CoreCompileInputs.cache
+D:\C#\modul8_1302220053\modul8_1302220053\obj\Debug\net8.0\modul8_1302220053.dll
+D:\C#\modul8_1302220053\modul8_1302220053\obj\Debug\net8.0\refint\modul8_1302220053.dll
+D:\C#\modul8_1302220053\modul8_1302220053\obj\Debug\net8.0\modul8_1302220053.pdb
+D:\C#\modul8_1302220053\modul8_1302220053\obj\Debug\net8.0\modul8_1302220053.genruntimeconfig.cache
+D:\C#\modul8_1302220053\modul8_1302220053\obj\Debug\net8.0\ref\modul8_1302220053.dll
